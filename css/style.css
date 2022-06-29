@@ -71,7 +71,7 @@ margin-bottom: 20px
 
 .background
 {
-background-image: url("../b.png");
+background-image: url("./b.png");
   font-family: "Lucida Console", "Courier New", monospace;
 }
 .clogo
