@@ -1,0 +1,248 @@
+
+.image
+{
+
+  width: 300px;
+}
+.menu
+{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.home
+{
+  padding-right:  50px;
+}
+.skills
+{
+  padding-right:  50px;
+
+}
+.resume
+{
+  padding-right:  50px;
+
+}
+.side {
+  padding-right:  50px;
+
+}
+.t
+{
+  padding-top: 50px;
+  padding-left: 10px;
+  width:  50%;
+  margin-left: 320px;
+  margin-bottom: 20px;
+  padding-bottom:10px;
+
+}
+.logocontainer
+{
+
+
+  padding-left: 10px;
+  width:  50%;
+margin-left: 320px;
+margin-bottom: 20px
+}
+
+.heading1
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  font-size: 22px;
+}
+.heading2
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #C2DED1;;
+  height: 50px;
+  font-size: 20px;
+
+}
+
+.background
+{
+background-image: url("../b.png");
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.clogo
+{
+  height: 100px;
+  width: 100px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.htmllogo
+{
+  height: 100px;
+  width: 100px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.csslogo
+{
+  height: 100px;
+  width: 100px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.hrlogo
+{
+  margin-left: 300px;
+  margin-right: 300px;
+
+}
+.wordlogo
+{
+  height: 100px;
+  width: 100px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.excellogo
+{
+  height: 100px;
+  width: 100px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.powerpointlogo
+{
+  height: 100px;
+  width: 100px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.instalogo
+{
+  height: 20px;
+  width: 20px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.twitterlogo
+{
+  height: 20px;
+  width: 20px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.githublogo
+{
+  height: 20px;
+  width: 20px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.footerlogo
+{
+  margin-left: 650px;
+  margin-right:500px;
+
+
+}
+.resumepic
+{
+  width: 100%;
+}
+.container1
+{
+  display: inline-block; /* the default for span */
+  width: 300px;
+  height: 400px;
+  padding: 5px;
+  margin-left: 300px;
+  font-style: oblique;
+
+
+}
+.container2
+{
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+padding: 5px;
+
+
+
+}
+.tr1{
+  height: 100px;
+
+}
+.tr2{
+
+
+  height: 100px;
+}
+.tr3
+{
+  height: 100px;
+}
+.th1
+{
+
+}
+.flogo
+{
+
+  width:400px;
+}
+a
+{
+  text-decoration: none;
+  color: inherit;
+}
+
+.clogos
+{
+  height: 200px;
+  width:200px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.htmllogos
+{
+  height: 200px;
+  width: 200px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.csslogos
+{
+  height: 200px;
+  width: 200px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.wordlogos
+{
+  height: 200px;
+  width: 200px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.excellogos
+{
+  height: 200px;
+  width: 200px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.powerpointlogos
+{
+  height: 200px;
+  width: 200px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
